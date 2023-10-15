@@ -1,4 +1,5 @@
 import React from "react";
+import Logo from '../craft_co_logo.svg';
 
 export const Navigation = (props) => {
   return (
@@ -18,7 +19,11 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            <img /*changed for website logo*/
+              src={Logo}
+              style={{ height: 100, width: 100 }}
+              alt="website logo"
+            />
           </a>{" "}
         </div>
 
@@ -29,7 +34,7 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+                Products
               </a>
             </li>
             <li>
