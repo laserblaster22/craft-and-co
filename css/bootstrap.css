@@ -3,7 +3,7 @@
  * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+/* normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -1086,7 +1086,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: #f2efe8; /*page background colour*/
 }
 input,
 button,
@@ -4271,13 +4271,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-bottom: 0;
   border-width: 1px 0 0;
 }
-.navbar-brand {
+/* .navbar-brand {
   float: left;
   height: 50px;
   padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
-}
+} */
 .navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;

@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/craft-and-co/static/css/main.ae42ac5f.css",
-    "main.js": "/craft-and-co/static/js/main.3a931970.js",
+    "main.js": "/craft-and-co/static/js/main.4fda856e.js",
+    "static/media/craft_co_logo.svg": "/craft-and-co/static/media/craft_co_logo.5e1147c0acd8a8ed78bb8939d8d36de0.svg",
     "index.html": "/craft-and-co/index.html",
     "main.ae42ac5f.css.map": "/craft-and-co/static/css/main.ae42ac5f.css.map",
-    "main.3a931970.js.map": "/craft-and-co/static/js/main.3a931970.js.map"
+    "main.4fda856e.js.map": "/craft-and-co/static/js/main.4fda856e.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.3a931970.js"
+    "static/js/main.4fda856e.js"
   ]
 }
